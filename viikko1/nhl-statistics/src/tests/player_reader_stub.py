@@ -1,0 +1,12 @@
+
+from player import Player
+
+class PlayerReaderStub:
+    def get_players(self):
+        return [
+            Player("Semenko", "EDM", 4, 12),  #  4+12 = 16
+            Player("Lemieux", "PIT", 45, 54), # 45+54 = 99
+            Player("Kurri",   "EDM", 37, 53), # 37+53 = 90
+            Player("Yzerman", "DET", 42, 56), # 42+56 = 98
+            Player("Gretzky", "EDM", 35, 89)  # 35+89 = 124
+        ]
