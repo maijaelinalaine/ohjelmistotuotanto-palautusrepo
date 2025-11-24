@@ -31,3 +31,4 @@ class Kauppa:
 
 # 1. muutos (Tee kolme committia (eli 3 kertaa muutos + add + commit))
 # 2. muutos
+# 3. muutos
