@@ -30,3 +30,4 @@ class Kauppa:
         return self._pankki.tilisiirto(nimi, viite, tili_numero, self._kaupan_tili, summa)
 
 # 1. muutos (Tee kolme committia (eli 3 kertaa muutos + add + commit))
+# 2. muutos
